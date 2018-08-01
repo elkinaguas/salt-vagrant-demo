@@ -1,1 +1,0 @@
-# salt-vagrant-demo
