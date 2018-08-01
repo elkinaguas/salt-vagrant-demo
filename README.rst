@@ -2,7 +2,8 @@
 Salt Vagrant Demo
 =================
 
-### Project based on https://github.com/UtahDave/salt-vagrant-demo
+Project based on https://github.com/UtahDave/salt-vagrant-demo
+==============================================================
 
 A Salt Demo using Vagrant.
 
